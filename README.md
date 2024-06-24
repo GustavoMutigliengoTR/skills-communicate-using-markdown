@@ -67,6 +67,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 <footer>
 
+#### (?<!#)#{1,6}([ \t](.*))?$
+  
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.

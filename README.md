@@ -44,8 +44,6 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
-
-#### (?<!#)#{1,6}([ \t](.*))?$
   
 <!--
   <<< Author notes: Footer >>>

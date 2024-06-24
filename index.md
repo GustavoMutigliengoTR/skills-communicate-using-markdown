@@ -36,3 +36,12 @@ var myVar = "Hello, world!";
 - [] 2
 - [] 3
 
+### JavaScript example
+
+```javascript
+function greet(name) {
+    return `Hello, ${name}!`;
+}
+
+console.log(greet("World"));
+

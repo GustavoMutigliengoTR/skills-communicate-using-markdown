@@ -14,6 +14,15 @@ Here have six differents headers
 
 ![image added](https://docs.github.com/assets/cb-85609/mw-1440/images/help/writing/lightmode-image-example.webp)
 
+### JavaScript example
+
+```javascript
+function greet(name) {
+    return `Hello, ${name}!`;
+}
+
+console.log(greet("World"));
+
 # Code snippets
 Code block can render differently depending the language.
 
@@ -28,20 +37,6 @@ var myVar = "Hello, world!";
 ```
 # Task List
 *Create checkboxes*
-- [X] 1
-- [X] 2
-- [] 3
-# My task list
-- [X] 1
-- [] 2
-- [] 3
-
-### JavaScript example
-
-```javascript
-function greet(name) {
-    return `Hello, ${name}!`;
-}
-
-console.log(greet("World"));
-
+- [x] Done!
+- [ ] Uncomplete
+- [ ] uncomplete too
